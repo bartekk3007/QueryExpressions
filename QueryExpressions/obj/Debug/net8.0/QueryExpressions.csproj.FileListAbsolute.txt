@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\QueryExpressions\bin\Debug\net8.0\QueryExpressions.exe
+C:\Users\48571\source\repos\QueryExpressions\bin\Debug\net8.0\QueryExpressions.deps.json
+C:\Users\48571\source\repos\QueryExpressions\bin\Debug\net8.0\QueryExpressions.runtimeconfig.json
+C:\Users\48571\source\repos\QueryExpressions\bin\Debug\net8.0\QueryExpressions.dll
+C:\Users\48571\source\repos\QueryExpressions\bin\Debug\net8.0\QueryExpressions.pdb
+C:\Users\48571\source\repos\QueryExpressions\obj\Debug\net8.0\QueryExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\QueryExpressions\obj\Debug\net8.0\QueryExpressions.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\QueryExpressions\obj\Debug\net8.0\QueryExpressions.AssemblyInfo.cs
+C:\Users\48571\source\repos\QueryExpressions\obj\Debug\net8.0\QueryExpressions.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\QueryExpressions\obj\Debug\net8.0\QueryExpressions.dll
+C:\Users\48571\source\repos\QueryExpressions\obj\Debug\net8.0\refint\QueryExpressions.dll
+C:\Users\48571\source\repos\QueryExpressions\obj\Debug\net8.0\QueryExpressions.pdb
+C:\Users\48571\source\repos\QueryExpressions\obj\Debug\net8.0\QueryExpressions.genruntimeconfig.cache
+C:\Users\48571\source\repos\QueryExpressions\obj\Debug\net8.0\ref\QueryExpressions.dll
